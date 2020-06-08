@@ -6,3 +6,5 @@ The pages of this website include a Description of the various classes in DnD 5t
 the second page details a Character Description page, detailing the stats of DnD Characters
 the third page details a Descrption of each stat and their use in DnD 5e Roleplaying and Combat
 while the forth and last page describes general tactics and senarios of using the stats that were described on the third page.
+
+What STAFF should know of this project is that...
